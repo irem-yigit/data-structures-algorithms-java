@@ -24,7 +24,7 @@ To run the project, you must have the following software installed on your syste
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/irem-yigit/booker-app.git
+   https://github.com/irem-yigit/data-structures-algorithms-java.git
    ```
 2. Navigate to the project directory and open in your IDE.
 
