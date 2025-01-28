@@ -8,7 +8,7 @@ This repository contains implementations of essential data structures and algori
 * Linked Lists (singly, doubly)
 * Stacks and Queues (array and linked list implementation)
 * Binary Trees and traversal methods
-* Advanced topics like Graphs, HashMaps, and Tries (upcoming)
+* Advanced topics like Graphs, HashMaps, and Trees
 
 ## Getting Started
 
